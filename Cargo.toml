@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "pico-minimum-r"
+name = "pico-minimum-rs"
 version = "0.1.0"
 
 [dependencies]

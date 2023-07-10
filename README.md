@@ -1,4 +1,4 @@
-# pico-minimum-r
+# pico-minimum-rs
 
 * Minimum bare metal Raspberry Pi Pico example in Rust
 
